@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning React.js
-- 💬 Ask me about HTML, CSS, JavaScript and DSA
+- 💬 Ask me about HTML, CSS, JavaScript, React, Redux and DSA
 - 📫 How to reach me: 1802.nehasahu@gmail.com
 - 📫 All My Projects: https://1995neha18.github.io/
 
