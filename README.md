@@ -4,6 +4,8 @@
 - 💬 Ask me about HTML, CSS, JavaScript, React, Redux and DSA
 - 📫 How to reach me: 1802.nehasahu@gmail.com
 - 📫 All My Projects: https://1995neha18.github.io/
+
+![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100053864172707/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/neha-sahu-3932b4217/) 
 
