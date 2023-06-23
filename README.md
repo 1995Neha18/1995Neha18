@@ -9,7 +9,7 @@
   
 - 📫 How to reach me: 1802.nehasahu@gmail.com
   
-- 📫 All My Projects: https://1995neha18.github.io/
+- 👨‍💻 All My Projects: https://1995neha18.github.io/
 
 ![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 ## 🌐 Socials:
