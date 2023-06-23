@@ -1,8 +1,16 @@
 ### Hi there 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+from+Neha!;Mern+Developer+From+India&font=Fira%20Code&center=true&width=700&height=50&weight=700&size=25&duration=2000&pause=2000">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p> 
+
 - 🌱 I’m currently learning React.js
+  
 - 💬 Ask me about HTML, CSS, JavaScript, React, Redux and DSA
+  
 - 📫 How to reach me: 1802.nehasahu@gmail.com
+  
 - 📫 All My Projects: https://1995neha18.github.io/
 
 ![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
