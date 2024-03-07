@@ -3,9 +3,9 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p> 
 
-- 🌱 I’m currently learning React.js
+- 🌱 I’m an enthusiastic MERN Stack Developer.
   
-- 💬 Ask me about HTML, CSS, JavaScript, React, Redux and DSA
+- 💬 Ask me about HTML, CSS, JavaScript, React, Redux, Express, Node Js, Next.js, Nest Js, TypeScript, Tailwind CSS and DSA.
   
 - 📫 How to reach me: 1802.nehasahu@gmail.com
   
